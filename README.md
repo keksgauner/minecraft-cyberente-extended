@@ -5,7 +5,7 @@
 [![Java](https://img.shields.io/badge/Java-21+-orange?style=for-the-badge&logo=openjdk)](https://jdk.java.net/21/)
 [![License](https://img.shields.io/github/license/keksgauner/minecraft-cyberente-extended?style=for-the-badge)](https://github.com/keksgauner/minecraft-cyberente-extended/blob/main/LICENSE)
 
-> 🛠️ Ein maßgeschneidertes **Minecraft Paper-Plugin** für den privaten CyberEnte-Server. Der Bibliotheken für **[Minecraft Paper-Plugin CyberEnte](https://github.com/keksgauner/minecraft-cyberente)** enthält, die für den Betrieb des Plugins erforderlich sind.
+> 🛠️ Ein maßgeschneidertes **Minecraft Paper-Plugin** für den privaten CyberEnte-Server. Der Bibliotheken für das **Minecraft Paper-Plugin [CyberEnte](https://github.com/keksgauner/minecraft-cyberente)** enthält, die für den Betrieb des Plugins erforderlich sind.
 
 ---
 
