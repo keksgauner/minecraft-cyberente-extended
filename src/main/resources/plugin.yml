@@ -1,4 +1,5 @@
-name: CyberEnte-Extendet
+name: CyberEnte-Extended
 version: '1.0-SNAPSHOT'
-main: de.datenente.cyberente.CyberEnteExtendet
+
+main: de.datenente.cyberente.extended.CyberEnteExtended
 api-version: '1.21'
