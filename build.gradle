@@ -35,6 +35,8 @@ dependencies {
     implementation("org.mariadb.jdbc:mariadb-java-client:3.4.1")
     implementation("io.hypersistence:hypersistence-utils-hibernate-63:3.8.2")
     implementation("jakarta.persistence:jakarta.persistence-api:3.2.0")
+
+    implementation("net.objecthunter:exp4j:0.4.8")
 }
 
 shadowJar {

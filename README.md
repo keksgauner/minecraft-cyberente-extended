@@ -22,6 +22,16 @@
 2. Kopiere die `CyberEnte-Extended-paper.jar` in den `plugins`-Ordner deines Paper-Servers.
 4. Starte den Server neu.
 
+---
+
+## Additional Libraries
+
+This plugin uses the following libraries:
+- [Hibernate](https://hibernate.org/) - For database access
+- [exp4j](https://www.objecthunter.net/exp4j/) - For evaluating mathematical expressions
+
+---
+
 ## 🧪 Kompilieren aus dem Quellcode
 
 **Voraussetzungen:**
