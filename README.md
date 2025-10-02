@@ -1,6 +1,6 @@
 # 🦆 CyberEnte Extended
 
-[![Build](https://img.shields.io/github/actions/workflow/status/keksgauner/minecraft-cyberente-extended/build.yml?branch=master&label=Build&style=for-the-badge)](https://github.com/keksgauner/minecraft-cyberente-extended/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/keksgauner/minecraft-cyberente-extended/ci.yaml?branch=master&label=Build&style=for-the-badge)](https://github.com/keksgauner/minecraft-cyberente-extended/actions)
 [![Release](https://img.shields.io/github/v/release/keksgauner/minecraft-cyberente-extended?label=Release&style=for-the-badge)](https://github.com/keksgauner/minecraft-cyberente/releases)
 [![Java](https://img.shields.io/badge/Java-21+-orange?style=for-the-badge&logo=openjdk)](https://jdk.java.net/21/)
 [![License](https://img.shields.io/github/license/keksgauner/minecraft-cyberente-extended?style=for-the-badge)](https://github.com/keksgauner/minecraft-cyberente-extended/blob/main/LICENSE)
