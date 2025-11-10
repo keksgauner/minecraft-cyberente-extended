@@ -3,6 +3,7 @@ version: '${version}'
 
 main: de.datenente.cyberente.extended.CyberEnteExtended
 api-version: '1.21'
+folia-supported: true
 
 website: https://www.e-duck.de
 description:  Ein maßgeschneidertes Minecraft Paper-Plugin für den privaten CyberEnte-Server. Der Bibliotheken für das Minecraft Paper-Plugin CyberEnte enthält, die für den Betrieb des Plugins erforderlich sind.
